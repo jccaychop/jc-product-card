@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jc-product-card-2023",
+  "name": "jc-product-card-rp",
   "author": "jccaychop",
   "module": "dist/jc-product-card.esm.js",
   "size-limit": [
