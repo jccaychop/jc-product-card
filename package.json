@@ -41,7 +41,6 @@
   },
   "name": "jc-product-card-rp",
   "author": "jccaychop",
-  "module": "dist/jc-product-card.esm.js",
   "size-limit": [
     {
       "path": "dist/jc-product-card.cjs.production.min.js",
