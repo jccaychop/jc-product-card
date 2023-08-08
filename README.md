@@ -1,8 +1,8 @@
-# JC-Product-Card
+# JC-Product-Card-rp
 
 Este es un paquete de pruebas de despliegue en NPM
 
-### Fernando Herrera
+### Curso: Fernando Herrera
 
 ## Ejemplo
 
@@ -12,7 +12,15 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons,
-} from 'jc-product-card';
+} from 'jc-product-card-rp';
+```
+
+```js
+const product = {
+  id: '1',
+  title: 'Coffee Mug - Card',
+  // img: './coffee-mug.png',
+};
 ```
 
 ```js
